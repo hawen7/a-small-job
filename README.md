@@ -1,2 +1,1 @@
-# firstblood
-first time using this program for a project
+I'm little baby giarl, hello word!
